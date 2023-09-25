@@ -1,1 +1,1 @@
-[![Click me!](https://github.com/gmoraleslondono/gmoraleslondono/assets/20589565/d3229dfe-95ff-4f3c-bfe7-b30ab142d358)](https://gmoraleslondono.github.io/portfolio/)
+[![Click me!](https://github.com/gmoraleslondono/gmoraleslondono/assets/20589565/844ac59a-e4f6-4cf2-8992-5b3329bd871c)](https://gmoraleslondono.github.io/portfolio/)
