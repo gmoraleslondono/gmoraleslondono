@@ -1,1 +1,1 @@
-[![Click me!](assets/readme.png)](https://gmoraleslondono.github.io/portfolio/)
+[![Click me!](assets/website2025.png)](https://gmoraleslondono.github.io/portfolio/)
